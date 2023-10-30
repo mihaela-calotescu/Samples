@@ -10,9 +10,6 @@
             viscosity fluids.</p>
         <example>
             <title>An exploded view diagram of a gear pump </title>
-            <p>Click on <uicontrol>Edit image map</uicontrol> to edit the map, or use
-                    <uicontrol>Image map details</uicontrol> to see the defined areas directly in
-                the document.</p>
             <p>
                 <imagemap id="gear_pump_map">
                     <image id="gear_pump_exploded" href="../images/Gear_pump_exploded.png">
@@ -72,25 +69,6 @@
                         <xref
                             href="parts/mounting-flange.dita#mounting_flange_topic/mounting_flange"
                             format="dita">Mounting Flange</xref>
-                    </area>
-                    <area>
-                        <shape>circle</shape>
-                        <coords>448, 147, 19</coords>
-                        <xref href="parts/seals.dita#seals_topic/shaft_seal" format="dita">Shaft
-                            Seal</xref>
-                    </area>
-                    <area>
-                        <shape>poly</shape>
-                        <coords>135, 208, 183, 247, 184, 393, 160, 397, 158, 383, 172, 380, 174,
-                            347, 174, 282, 161, 243, 134, 222, 113, 226</coords>
-                        <xref href="parts/seals.dita#seals_topic/case_seal" format="dita">Case
-                            Seal</xref>
-                    </area>
-                    <area>
-                        <shape>poly</shape>
-                        <coords>568, 81, 576, 103, 468, 152, 455, 130</coords>
-                        <xref href="parts/drive-shaft.dita#drive_shaft_topic/drive_shaft"
-                            format="dita">Drive Shaft</xref>
                     </area>
                 </imagemap>
             </p>
