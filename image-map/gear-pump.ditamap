@@ -2,6 +2,13 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Gear Pump</title>
+ <keydef keys="gear_pump_exploded">
+  <topicmeta>
+   <keywords>
+    <keyword>../images/Gear_pump_exploded.png</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
  <topicref href="topics/introduction.dita"/>
  <topicref href="topics/gear-pump.dita">
   <topicref href="topics/parts/bushings.dita"/>
