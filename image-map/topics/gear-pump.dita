@@ -12,7 +12,7 @@
             <title>An exploded view diagram of a gear pump </title>
             <p>
                 <imagemap id="gear_pump_map">
-                    <image id="gear_pump_exploded" href="../images/Gear_pump_exploded.png">
+                    <image keyref="gear_pump_exploded">
                         <alt>Gear Pump</alt>
                     </image>
                     <area>
