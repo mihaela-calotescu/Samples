@@ -2,10 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Gear Pump</title>
- <keydef keys="gear_pump_exploded">
+ <keydef keys="gear_pump_exploded" href="images/Gear_pump_exploded.png">
   <topicmeta>
    <keywords>
-    <keyword>../images/Gear_pump_exploded.png</keyword>
+    <keyword></keyword>
    </keywords>
   </topicmeta>
  </keydef>
