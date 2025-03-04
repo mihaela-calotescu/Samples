@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="care">
-    <title>Care and Preparation</title>
+    <title>Care and
+        Pr<?oxy_comment_start author="Mihaela Calotescu" timestamp="20250304T112038+0000" comment="dasdasd"?>epar<?oxy_comment_end?>ation</title>
     <body>
-        <p>d</p>
+        <p>ddaasdas<?oxy_insert_start author="Mihaela Calotescu" timestamp="20250304T112032+0000"?>asdasdas<?oxy_insert_end?></p>
         <p>
             <table frame="none">
                 <tgroup cols="3">
@@ -67,3 +68,4 @@
         </p>
     </body>
 </topic>
+<?oxy_options track_changes="on"?>
