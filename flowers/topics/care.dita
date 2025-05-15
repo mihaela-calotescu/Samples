@@ -4,7 +4,7 @@
     <title>Care and
         Pr<?oxy_comment_start author="Mihaela Calotescu" timestamp="20250304T112038+0000" comment="dasdasd"?>epar<?oxy_comment_end?>ation</title>
     <body>
-        <p>ddaasdas<?oxy_insert_start author="Mihaela Calotescu" timestamp="20250304T112032+0000"?>asdasdas<?oxy_insert_end?></p>
+        <p><?oxy_delete author="Mihaela Calotescu" timestamp="20250515T115245+0000" content="ddaasdas"?><?oxy_insert_start author="Mihaela Calotescu" timestamp="20250515T115245+0000"?>Test<?oxy_insert_end?></p>
         <p>
             <table frame="none">
                 <tgroup cols="3">
