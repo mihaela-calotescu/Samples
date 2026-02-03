@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ql3_tv2_23c">
+    <title>Biblioteca</title>
+    <body>
+        <p><table frame="all" rowsep="1" colsep="1" id="table_fw5_tv2_23c">
+                <title>Biblioteca Syncro</title>
+                <tgroup cols="4">
+                    <colspec colnum="1" colname="col1" colwidth="300px"/>
+                    <colspec colnum="2" colname="col2" colwidth="300px"/>
+                    <colspec colnum="3" colname="col3" colwidth="300px"/>
+                    <colspec colnum="4" colname="col4" colwidth="300px"/>
+                    <thead>
+                        <row>
+                            <entry><b>Titlu</b></entry>
+                            <entry><b>Autor</b></entry>
+                            <entry><b>La cine este</b></entry>
+                            <entry><b>Luata la data</b></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.de/-/en/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=pd_lpo_d_sccl_1/261-0615066-4652003?pd_rd_w=6lmCr&amp;content-id=amzn1.sym.716712ef-df33-47df-ae89-8f57d61f71e1&amp;pf_rd_p=716712ef-df33-47df-ae89-8f57d61f71e1&amp;pf_rd_r=JSE78B15QYT8C1BM2FZ2&amp;pd_rd_wg=xPODA&amp;pd_rd_r=1aefc24f-376b-4cd4-9209-457bd350a225&amp;pd_rd_i=0135957052&amp;psc=1"
+                                    format="html" scope="external">The Pragmatic Programmer, Your
+                                    journey to mastery, 20th Anniversary Edition</xref></entry>
+                            <entry>David Thomas</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073"
+                                    format="html" scope="external">The Clean Coder: A Code of
+                                    Conduct for Professional Programmers</xref></entry>
+                            <entry>Robert Martin</entry>
+                            <entry>Stefan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.emag.ro/masoara-ce-conteaza-despre-okr-uri-si-modul-in-care-bono-gates-si-google-au-zguduit-lumea-cu-ajutorul-lor-john-doerr-9786067223668/pd/DCDH88BBM/?utm_source=cns_delivery&amp;utm_medium=email&amp;utm_campaign=cns_delivery_order&amp;utm_content=cns_product_title&amp;ref_id=1374261574"
+                                    format="html" scope="external">Masoara ce conteaza. Despre
+                                    OKR-uri</xref></entry>
+                            <entry>John Doerr</entry>
+                            <entry>Stefan</entry>
+                            <entry>ianuarie 2024</entry>
+                        </row>
+                        <row>
+                            <entry><xref href="https://www.amazon.com/dp/0134494164" format="html"
+                                    scope="external">Clean Architecture: A Craftsman's Guide to
+                                    Software Structure and Design (Robert C. Martin
+                                Series)</xref></entry>
+                            <entry>Robert C. Martin</entry>
+                            <entry>Sorin Carbunaru</entry>
+                            <entry>15 ian 2026</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.emag.ro/coaching-zi-de-zi-michael-bungay-stanier-9786067222500/pd/D4ZPQDBBM/"
+                                    format="html" scope="external">Coaching zi de zi</xref></entry>
+                            <entry>Michael Bungay Stanier</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.elefant.ro/the-6-types-of-working-genius-a-better-way-to-understand-your-gifts-your-frustrations-and-your-team-hardback_0d1bdd7a-e0c9-52b7-be2c-bdaece34030e"
+                                    format="html" scope="external">The 6 Types of Working Genius. A
+                                    Better Way to Understand Your Gifts, Your Frustrations, and Your
+                                    Team</xref></entry>
+                            <entry>Patrick M. Lencioni</entry>
+                            <entry>Stefan</entry>
+                            <entry>ianuarie 2024</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.litera.ro/conversatii-decisive-noi-solutii-pentru-a-gestiona-cu-succes-situatiile-critice-aintros84"
+                                    format="html" scope="external">Conversatii
+                                decisive</xref></entry>
+                            <entry>Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily
+                                Gregory</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.litera.ro/conversatii-decisive-noi-solutii-pentru-a-gestiona-cu-succes-situatiile-critice-aintros84"
+                                    format="html" scope="external">Conversatii
+                                decisive</xref></entry>
+                            <entry>Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily
+                                Gregory</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.elefant.ro/radical-candor-fully-revised-updated-edition-be-a-kick-ass-boss-without-losing-your-humanity-hardcover_aa410ba0-f036-4ea2-8052-1c568db7c19a"
+                                    format="html" scope="external">Radical Candor</xref></entry>
+                            <entry>KIM SCOTT</entry>
+                            <entry>Biblioteca de la cafenea</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.elefant.ro/radical-candor-fully-revised-updated-edition-be-a-kick-ass-boss-without-losing-your-humanity-hardcover_aa410ba0-f036-4ea2-8052-1c568db7c19a"
+                                    format="html" scope="external">Radical Candor</xref></entry>
+                            <entry>KIM SCOTT</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Bataliile care conteaza</entry>
+                            <entry>Magor Csibi</entry>
+                            <entry>Stefan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Bataliile care conteaza</entry>
+                            <entry>Magor Csibi</entry>
+                            <entry>Cristi Talau</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Bataliile care conteaza</entry>
+                            <entry>Magor Csibi</entry>
+                            <entry>George</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Bataliile care conteaza</entry>
+                            <entry>Magor Csibi</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.de/-/en/Scott-Selikoff/dp/1119864585/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1687162516&amp;sr=8-2"
+                                    format="html" scope="external">OCP Oracle Certified Professional
+                                    Java SE 17 Developer Study Guide: Exam 1Z0-829</xref></entry>
+                            <entry>Scott Selikoff, Jeanne Boyarsky</entry>
+                            <entry>Alina Nicoli</entry>
+                            <entry>04/07/2023</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.de/-/en/Scott-Selikoff/dp/1119864585/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1687162516&amp;sr=8-2"
+                                    format="html" scope="external">OCP Oracle Certified Professional
+                                    Java SE 17 Developer Study Guide: Exam 1Z0-829</xref></entry>
+                            <entry>Scott Selikoff, Jeanne Boyarsky</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.co.uk/Oracle-Certified-Professional-Programmer-Study/dp/1119617626/ref=sr_1_1?crid=1944PNRTMPFO3&amp;keywords=OCP+java+11+study+guide&amp;qid=1665663737&amp;qu=eyJxc2MiOiIxLjgwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&amp;s=books&amp;sprefix=ocp+java+11+study+guide%2Cstripbooks%2C99&amp;sr=1-1"
+                                    format="html" scope="external">OCP Oracle Certified Professional
+                                    Java SE 11 Programmer II Study Guide: Exam 1Z0-816 and Exam
+                                    1Z0-817 Paperback</xref></entry>
+                            <entry>Jeanne Boyarsky</entry>
+                            <entry>Radu Pisoi</entry>
+                            <entry>11/10/2022</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.de/-/en/gp/product/0241404835/ref=ox_sc_act_title_2?smid=A2J3MHS8H5EIUE&amp;psc=1"
+                                    format="html" scope="external">Artificial Intelligence: A Guide
+                                    for Thinking Humans</xref></entry>
+                            <entry>Melanie Mitchell</entry>
+                            <entry/>
+                            <entry>9/6/2022</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.de/-/en/gp/product/1617296864/ref=ox_sc_act_title_3?smid=A2O0NLZPCZ5AO5&amp;psc=1"
+                                    format="html" scope="external">Deep Learning With
+                                Python</xref></entry>
+                            <entry>Francois Chollet</entry>
+                            <entry>Dan</entry>
+                            <entry>9/1/2022</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.de/-/en/Marc-Peter-Deisenroth/dp/110845514X/ref=d_pd_sbs_sccl_1_4/262-1707593-7988519?pd_rd_w=YdQNe&amp;content-id=amzn1.sym.f09f75b4-99ca-4214-ae81-46aecb763c7f&amp;pf_rd_p=f09f75b4-99ca-4214-ae81-46aecb763c7f&amp;pf_rd_r=9859MGXBH820DEBP6R7A&amp;pd_rd_wg=u3kRg&amp;pd_rd_r=3774de82-547c-4e62-85ab-e61e4db18ec6&amp;pd_rd_i=110845514X&amp;psc=1"
+                                    format="html" scope="external">Mathematics for Machine
+                                    Learning</xref></entry>
+                            <entry>Marc Peter Deisenroth</entry>
+                            <entry>Dan</entry>
+                            <entry>8/17/2022</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.de/-/en/Leonard-Rosenthol/dp/1449327915/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1660124990&amp;sr=8-1"
+                                    format="html" scope="external">Developing with
+                                PDF</xref></entry>
+                            <entry>Leonard Rosenthol</entry>
+                            <entry>Julien</entry>
+                            <entry>8/17/2022</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/XSLT-2-0-XPath-Programmers-Reference/dp/0470192747/ref=sr_1_1?dchild=1&amp;keywords=XSLT+2.0+and+XPath+2.0+Programmer%27s+Reference&amp;qid=1611150789&amp;s=books&amp;sr=1-1"
+                                    format="html" scope="external">XSLT 2.0 and XPath 2.0
+                                    Programmer's Reference</xref></entry>
+                            <entry>Michael-Kay</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/0593076117/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=&amp;sr="
+                                    format="html" scope="external">Sprint: How to Solve Big Problems
+                                    and Test New Ideas in Just Five Days</xref></entry>
+                            <entry>(Author), John Zeratsky (Author), Braden Kowitz (Author), Dan
+                                Bittner (Reader)</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Fixing-Bad-Designs-approaches-techniques/dp/1787120554"
+                                    format="html" scope="external">Fixing Bad UX
+                                Designs</xref></entry>
+                            <entry>Lisandra Maioli</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Digital-Typography-Lecture-Notes-Donald/dp/1575860104"
+                                    format="html" scope="external">Digital Typography</xref></entry>
+                            <entry>Donald E. Knuth</entry>
+                            <entry>Dan</entry>
+                            <entry>6/9/2018</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1535366921&amp;sr=1-1&amp;keywords=Agile+testing"
+                                    format="html" scope="external">Agile Testing</xref></entry>
+                            <entry>Lisa Crispin, Janet Gregory</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1535366982&amp;sr=1-1&amp;keywords=building+microservices&amp;dpID=51m85J4Zi9L&amp;preST=_SX218_BO1,204,203,200_QL40_&amp;dpSrc=srch"
+                                    format="html" scope="external">Building Microservices: Designing
+                                    Fine-Grained Systems</xref></entry>
+                            <entry>Sam Newman</entry>
+                            <entry>Radu P</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1535367019&amp;sr=1-1&amp;keywords=effective+java+3rd+edition&amp;dpID=51IcaSKfPAL&amp;preST=_SX218_BO1,204,203,200_QL40_&amp;dpSrc=srch"
+                                    format="html" scope="external">Effective Java (3rd
+                                    Edition)</xref></entry>
+                            <entry>Joshua Bloch</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1535367122&amp;sr=1-1&amp;keywords=head+first+design+patterns&amp;dpID=61ZG-hATOeL&amp;preST=_SX218_BO1,204,203,200_QL40_&amp;dpSrc=srch"
+                                    format="html" scope="external">Head First Design Patterns: A
+                                    Brain-Friendly Guide</xref></entry>
+                            <entry>Eric Freeman, Elisabeth Robson</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1_sspa?s=books&amp;ie=UTF8&amp;qid=1535367221&amp;sr=1-1-spons&amp;keywords=clean+code&amp;psc=1"
+                                    format="html" scope="external">Clean Code: A Handbook of Agile
+                                    Software Craftsmanship</xref></entry>
+                            <entry>Robert C. Martin</entry>
+                            <entry>Andrei Popa</entry>
+                            <entry>04/01/2023</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&amp;qid=1493886960&amp;sr=8-1&amp;keywords=clean+code"
+                                    format="html" scope="external">Clean Code: A Handbook of Agile
+                                    Software Craftsmanship</xref></entry>
+                            <entry>Robert C. Martin</entry>
+                            <entry>Stefan</entry>
+                            <entry>02/10/2025</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.co.uk/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1458890936&amp;sr=1-1&amp;keywords=oracle+certified+associate+java+se+8+programmer"
+                                    format="html" scope="external">OCA: Oracle Certified Associate
+                                    Java SE 8 Programmer I Study Guide: Exam 1Z0-808</xref></entry>
+                            <entry>Jeanne Boyarsky, Scott Selikoff</entry>
+                            <entry>Radu Capalb</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.co.uk/OCP-Certified-Professional-Programmer-1Z0-809/dp/1119067901/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1458890936&amp;sr=1-2&amp;keywords=oracle+certified+associate+java+se+8+programmer"
+                                    format="html" scope="external">OCP: Oracle Certified
+                                    Professional Java SE 8 Programmer II Study Guide: Exam 1Z0-809
+                                    Paperback – 12 Jan 2016</xref></entry>
+                            <entry>Jeanne Boyarsky, Scott Selikoff</entry>
+                            <entry>Cosmin Eftenie</entry>
+                            <entry>12/05/2025</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.co.uk/Contract-Negotiation-Handbook-Indispensable-Professionals/dp/1435706390/ref=sr_1_1?ie=UTF8&amp;qid=1458824297&amp;sr=8-1&amp;keywords=The+Contract+Negotiation+Handbook%3A+An+Indispensable+Guide+for+Contract+Professionals"
+                                    format="html" scope="external">The Contract Negotiation
+                                    Handbook: An Indispensable Guide for Contract
+                                    Professionals</xref></entry>
+                            <entry>Stephen Guth</entry>
+                            <entry>Stefan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.co.uk/Contract-Negotiation-Handbook-Software-Service/dp/0988830809/ref=sr_1_1?ie=UTF8&amp;qid=1458824232&amp;sr=8-1&amp;keywords=Contract+Negotiation+Handbook%3A+Software+as+a+Service%22"
+                                    format="html" scope="external">Contract Negotiation Handbook:
+                                    Software as a Service</xref></entry>
+                            <entry>Stephen Guth</entry>
+                            <entry>Stefan</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/0205313426/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">The Elements of Style (4th
+                                    Edition)</xref></entry>
+                            <entry>William Strunk</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/1568989695/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">Thinking with Type, 2nd revised
+                                    and expanded edition: A Critical Guide for Designers, Writers,
+                                    Editors, &amp; Students</xref></entry>
+                            <entry>Lupton, Ellen</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/0470185481/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">Handbook of Usability Testing:
+                                    How to Plan, Design, and Conduct Effective Tests</xref></entry>
+                            <entry>Rubin, Jeffrey</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/0321815386/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">A Project Guide to UX Design: For
+                                    user experience designers in the field or in the making (2nd
+                                    Edition) (Voices That Matter</xref></entry>
+                            <entry>Unger, Russ</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/0992279445/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">The Principles of Beautiful Web
+                                    Design</xref></entry>
+                            <entry>Beaird, Jason</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/1497408180/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">A Smarter Way to Learn
+                                    JavaScript: The new approach that uses technology to cut your
+                                    effort in half</xref></entry>
+                            <entry>Myers, Mark</entry>
+                            <entry/>
+                            <entry>07/11/2023</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/1449311652/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">Lean UX: Applying Lean Principles
+                                    to Improve User Experience</xref></entry>
+                            <entry>Gothelf, Jeff</entry>
+                            <entry>Mihaela</entry>
+                            <entry>23/03/2021</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/1592535879/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">Universal Principles of Design,
+                                    Revised and Updated: 125 Ways to Enhance Usability, Influence
+                                    Perception, Increase Appeal, Make Better Design
+                                Decision</xref></entry>
+                            <entry>Lidwell, William</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/0321767535/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">100 Things Every Designer Needs
+                                    to Know About People (Voices That Matter)</xref></entry>
+                            <entry>Weinschenk, Susan</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/0321965515/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">Don't Make Me Think, Revisited: A
+                                    Common Sense Approach to Web Usability (3rd Edition) (Voices
+                                    That Matter)</xref></entry>
+                            <entry>Krug, Steve</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/gp/product/0321657292/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1"
+                                    format="html" scope="external">Rocket Surgery Made Easy: The
+                                    Do-It-Yourself Guide to Finding and Fixing Usability
+                                    Problems</xref></entry>
+                            <entry>Krug, Steve</entry>
+                            <entry>Cafenea, parter</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.com/Write-Powerful-Sentences-Paragraphs-Everything/dp/0985820306"
+                                    format="html" scope="external">How to write Powerful Sentences
+                                    and Paragraphs</xref></entry>
+                            <entry>Marcia Riefer Johnston</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.com/Global-Content-Strategy-A-Primer/dp/1937434400"
+                                    format="html" scope="external">Global Content Strategy: A
+                                    Primer</xref></entry>
+                            <entry>Val Swisher</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Best Practices: The productivity paradox</entry>
+                            <entry>A Publication for Information-Developement Management</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Automating DITA Builds. Lightweight Continuous Integration for
+                                Documentation Projects</entry>
+                            <entry>A Publication for Information-Developement Management</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Beyound Teamwork: Reflections on Amy Edmondson's book</entry>
+                            <entry>A Publication for Information-Developement Management</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Introduction to the CIDM Study of User-Generated Content</entry>
+                            <entry>A Publication for Information-Developement Management</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Design Patterns (Elements of Reusable OO Software)</entry>
+                            <entry>Eric Gamma, richard Helm, Ralph Johnson, John Vlissides</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Spring Security In Action</entry>
+                            <entry>Laurențiu Spilcă</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.com/DITA-Practitioners-Volume-Architecture-Technology/dp/1937434060"
+                                    format="html" scope="external">&lt;dita> for Practitioners
+                                    (Volume 1)</xref></entry>
+                            <entry>Eliot Kimber</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.com/SCJP-Certified-Programmer-Java-310-065/dp/0071591060/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1268749294&amp;sr=1-1"
+                                    format="html" scope="external">SCJP Sun Certified Programmer for
+                                    Java 6 Exam 310-065</xref></entry>
+                            <entry>Katherine Sierra (Author), Bert Bates (Author)</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.com/SCJD-Exam-Second-Experts-Voice/dp/1590595165/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1268750275&amp;sr=1-1"
+                                    format="html" scope="external">SCJD Exam with J2SE 5, Second
+                                    Edition (Expert's Voice in Java)</xref></entry>
+                            <entry>Terry Camerlengo (Author), Andrew Monkhouse (Author)</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672"
+                                    format="html" scope="external">Refactoring: Improving the Design
+                                    of Existing Code</xref></entry>
+                            <entry>Martin Fowler, Kent Beck, John Brant , William Opdyke, Don
+                                Roberts</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="https://www.amazon.com/Planning-Extreme-Programming-Kent-Beck/dp/0201710919"
+                                    format="html" scope="external">Planning Extreme
+                                    Programming</xref></entry>
+                            <entry>Kent Beck , Martin Fowler</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.co.uk/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/ref=pd_sim_b_1"
+                                    format="html" scope="external">Extreme Programming Explained:
+                                    Embrace Change(second edition)</xref></entry>
+                            <entry>Kent Beck , Cynthia Andres</entry>
+                            <entry>Iulian</entry>
+                            <entry>???</entry>
+                        </row>
+                        <row>
+                            <entry><xref
+                                    href="http://www.amazon.com/Practical-Software-Licensing-Licensees-Licensors/dp/1604420901/ref=dp_ob_title_bk"
+                                    format="html" scope="external">A Practical Guide to Software
+                                    Licensing for Licensees and Licensors, Third
+                                Edition</xref></entry>
+                            <entry>H. Ward Classen</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Pattern-oriented software architecture(A system of
+                                patterns)</entry>
+                            <entry>Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerland,
+                                Michael Stal</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Object-Oriented Software Development Using Java (principles,
+                                patterns and frameworks)</entry>
+                            <entry>Xiaoping Jia</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>A Guide to IT Contracting</entry>
+                            <entry>Michael R. Overly and Matthew A. Karlyn</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Machine Learning Design Patterns</entry>
+                            <entry>Valliappa Lakshmanan, Sara Robinson, Michael Munn</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>Procedura asta arata cum trebuie procedat cand ai nevoie de a cumpara o carte
+            necesara in activitatea curenta.</p>
+        <ol id="ol_ady_bx2_23c">
+            <li>Se verifica in biblioteca daca ceea ce se doreste nu exista deja.</li>
+            <li>Se cer date complete de la cel care are nevoie de carte: titlul complet al cartii
+                dorite, autorul, editia, editura, ISBN (cel mai bine este sa indicati un link), daca
+                se vrea formatul hardcopy sau electronic.</li>
+            <li>Se incep demersurile de achizitie cu Dep Contabilitate si se va da un raspuns cu
+                privire la detaliile achizitie respectivului material (data estimata pentru
+                livrare).</li>
+            <li>Se anunta Marian marian@sync.ro ca ne asteptam o livrare, eventual cu un tracking
+                number de urmarire status</li>
+            <li>Se anunta beneficiarul atunci cand ajunge cartea, printr-un email care se duce catre
+                all@sync.ro, ca sa stie si colegii - asta e optional.</li>
+            <li>Se trece cartea in biblioteca</li>
+        </ol>
+    </body>
+</topic>
